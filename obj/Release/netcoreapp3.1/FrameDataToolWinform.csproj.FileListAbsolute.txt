@@ -14,3 +14,5 @@ E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameData
 E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.dll
 E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.pdb
 E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.genruntimeconfig.cache
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.csproj.AssemblyReference.cache
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.csproj.CopyComplete
