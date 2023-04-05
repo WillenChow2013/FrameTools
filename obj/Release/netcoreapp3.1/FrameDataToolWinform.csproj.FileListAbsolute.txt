@@ -1,0 +1,16 @@
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\bin\Release\netcoreapp3.1\FrameDataToolWinform.exe
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\bin\Release\netcoreapp3.1\FrameDataToolWinform.deps.json
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\bin\Release\netcoreapp3.1\FrameDataToolWinform.runtimeconfig.json
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\bin\Release\netcoreapp3.1\FrameDataToolWinform.runtimeconfig.dev.json
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\bin\Release\netcoreapp3.1\FrameDataToolWinform.dll
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\bin\Release\netcoreapp3.1\FrameDataToolWinform.pdb
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\bin\Release\netcoreapp3.1\MaterialSkin.dll
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.Form1.resources
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.csproj.GenerateResource.cache
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.AssemblyInfoInputs.cache
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.AssemblyInfo.cs
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.csproj.CoreCompileInputs.cache
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.dll
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.pdb
+E:\dev\c#\FrameDataTool\FrameDataToolWinform\obj\Release\netcoreapp3.1\FrameDataToolWinform.genruntimeconfig.cache
