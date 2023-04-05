@@ -3,7 +3,8 @@
 
 ## 安装
 
-    采用VS 2019, 目标框架为.NET CORE 3.1.  无特殊情况，win7以上的windows应该均支持（未验证）
+    采用VS 2019, 目标框架为.NET CORE 3.1.  无特殊情况，win7以上的windows应该均支持（未验证）。
+    下载地址：https://github.com/WillenChow2013/FrameTools/tree/master/bin/Release/netcoreapp3.1 目录下所有文件
 
 ## 使用
 
