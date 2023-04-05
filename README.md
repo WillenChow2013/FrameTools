@@ -8,7 +8,8 @@
 ## 使用
 
     界面简单，不做赘述。
-    ![image_name](https://github.com/WillenChow2013/FrameTools/blob/master/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+    ![image_name](![主界面截图](https://github.com/WillenChow2013/FrameTools/raw/master/主界面.png)
+)
 
 
 ## 贡献
